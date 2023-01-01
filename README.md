@@ -2,7 +2,7 @@
 
 To run on tomcat make changes in config files 
 
-1. Copy the test server and make changes in PATH, PORT
+1. Copy the test server(sub server) and make multiple instance and do changes in PATH, PORT
 
 2. Every server run on different port
 
